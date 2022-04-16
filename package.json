@@ -1,0 +1,17 @@
+{
+  "name": "email_app",
+  "version": "1.0.0",
+  "description": "Schedule Email & Send them",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Jaiswal",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.2",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "node-schedule": "^2.1.0"
+  }
+}
