@@ -5,9 +5,9 @@
 I have created the backend of Email Scheduling App using Nodejs, Express and Sendgrid.
 
 Functionality
-1. Users will be able to create an email schedule on a particular day at a particular time.
+1. Users will be able to schedule an email on a particular day at a particular time.
 2. Users will be able to reschedule an email.
-3. Users will be able to delete an email schedule.
+3. Users will be able to delete an scheduled email.
 4. Users will be able to see all the scheduled emails.
 5. Users will be able to see the failed scheduled emails.
 
